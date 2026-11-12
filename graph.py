@@ -7,6 +7,20 @@ from dotenv import load_dotenv
 from langgraph.graph import StateGraph, END
 from langchain_google_genai import ChatGoogleGenerativeAI
 
+
+def get_secret(name, default=None):
+    value = os.getenv(name)
+
+    if value:
+        return value
+
+    try:
+        import streamlit as st
+        return st.secrets.get(name, default)
+    except Exception:
+        return default
+
+
 load_dotenv(override=True)
 
 # ---------- Research State ----------
@@ -31,7 +45,7 @@ def get_llm():
 
     return ChatGroq(
         model="openai/gpt-oss-20b",
-        api_key=os.getenv("GROQ_API_KEY"),
+        api_key=get_secret("GROQ_API_KEY"),
         temperature=0.2,
         max_tokens=600,
         max_retries=1,
@@ -49,8 +63,8 @@ def invoke_llm(prompt):
         from langchain_google_genai import ChatGoogleGenerativeAI
 
         gemini = ChatGoogleGenerativeAI(
-            model=os.getenv("MODEL_NAME", "gemini-3.8-flash"),
-            google_api_key=os.getenv("GOOGLE_API_KEY"),
+            model=get_secret("MODEL_NAME", "gemini-3.8-flash"),
+            google_api_key=get_secret("GOOGLE_API_KEY"),
             timeout=30,
             max_retries=0,
             max_output_tokens=600,
@@ -121,7 +135,7 @@ def researcher_agent(state: ResearchState):
     from tavily import TavilyClient
 
     client = TavilyClient(
-        api_key=os.getenv("TAVILY_API_KEY")
+        api_key=get_secret("TAVILY_API_KEY")
     )
 
     queries = state.get("queries", [])

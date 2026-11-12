@@ -1,5 +1,79 @@
 [
   {
+    "id": "20261112213236507602",
+    "topic": "how ai is devlpoing",
+    "depth": "Quick exploration",
+    "focus": "General overview",
+    "plan": "**Research objective**  \nTo quickly map the current landscape of AI development practices and emerging trends.\n\n**Research questions**  \n1. What are the predominant programming frameworks and tools driving AI development today?  \n2. How are interdisciplinary collaborations shaping AI research and deployment?  \n3. What regulatory and ethical considerations are influencing AI development strategies?\n\n**Web search queries**  \nQUERY: latest AI development frameworks 2024  \nQUERY: interdisciplinary AI research collaborations case studies  \nQUERY: AI development regulatory trends 2024  \n\n**Limitations**  \n- Rapidly evolving terminology may cause search results to lag behind current practices.  \n- Limited access to proprietary industry reports could restrict depth of insight.",
+    "report": "# AI Development Landscape – 2024 Overview  \n\n**Prepared for:** [Stakeholder / Organization]  \n**Prepared by:** Evidence‑Based Research Team  \n**Date:** 12 Nov 2026  \n\n---\n\n## Executive Summary  \n\nThe AI development ecosystem in 2024 is characterized by a rapid convergence of mature deep‑learning frameworks, emerging generative‑AI toolkits, and a growing emphasis on interdisciplinary collaboration. At the same time, a wave of regulatory initiatives—most notably the EU Artificial Intelligence Act and state‑level U.S. legislation—are reshaping how developers design, test, and deploy AI systems.  \n\nKey take‑aways:  \n\n* **Frameworks**: TensorFlow and PyTorch remain the backbone for deep‑learning, while LangChain, LlamaIndex, and Microsoft JARVIS are accelerating LLM‑centric applications.  \n*",
+    "sources": [
+      {
+        "title": "5 Generative AI Implementation Frameworks 2024 | Scalefocus",
+        "url": "https://www.scalefocus.com/blog/top-5-generative-ai-implementation-frameworks-to-use-in-2024",
+        "snippet": "LangChain has innovative language models. LlamaIndex focuses on data strengths. Microsoft’s JARVIS promotes teamwork. Amazon Bedrock’s offers an easy model evaluation and selection process. MeshTensorFlow’s method for distributed DNN training is also key. Together, these frameworks help advance the generative AI revolution and are changing our ideas of what is possible. [...] LangChain is quickly becoming a revolutionary software development framework tailored for generative AI professionals. This open-source toolkit, offered under the MIT License, provides a unified interface that integrates agents, memory, and chains. It allows developers to effortlessly harness large language models (LLMs) and enhances the functionality of their AI systems. [...] Based on this comprehensive set of criteria, we compiled a list of the top 5 generative AI frameworks for 2024. These frameworks provide special features for developers and businesses and help users take advantage of AI for both creative and practical needs.\n\n## The Top 5 Generative AI Frameworks for 2024\n\n### 1. LangChain: Unleashing the power of language models",
+        "query": "latest AI development frameworks 2024  ",
+        "score": 0.7631309
+      },
+      {
+        "title": "7 Cutting-Edge AI Frameworks Every Developer Should Master! - DEV Community",
+        "url": "https://dev.to/pavanbelagatti/7-cutting-edge-ai-frameworks-every-developer-should-master-13l9",
+        "snippet": "Whether you're working with Generative AI models or implementing large language models (LLMs), mastering the right tools can make or break your projects. We've analyzed and compiled the seven most important AI frameworks that are actually worth your time in 2024 - from the battle-tested TensorFlow to emerging players like LangChain and LlamaIndex.\n\nLet's cut through the noise and focus on the frameworks that will give you the biggest return on your learning investment.\n\n## TensorFlow [...] ### Conclusion\n\nMastering these seven AI frameworks positions developers at the forefront of artificial intelligence development. Each framework serves distinct purposes - TensorFlow and PyTorch excel in deep learning, LangChain and LlamaIndex streamline LLM applications, while Hugging Face, OpenAI, and Microsoft JARVIS push boundaries in natural language processing and multimodal AI. [...] Smart framework selection depends on specific project requirements. TensorFlow suits production-ready applications, PyTorch shines in research environments, and newer frameworks like LangChain offer specialized capabilities for building LLM-powered applications.",
+        "query": "latest AI development frameworks 2024  ",
+        "score": 0.6771539
+      },
+      {
+        "title": "AI Risk Management Framework",
+        "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+        "snippet": "On July 26, 2024, NIST releasedNIST-AI-_600-1, Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile_. The profile can help organizations identify unique risks posed by generative AI and proposes actions for generative AI risk management that best aligns with their goals and priorities.",
+        "query": "latest AI development frameworks 2024  ",
+        "score": 0.5062024
+      },
+      {
+        "title": "The future of AI is interdisciplinary | Waterloo News | University of Waterloo",
+        "url": "https://uwaterloo.ca/news/arts-research/future-ai-interdisciplinary",
+        "snippet": "## Creating equitable human-AI experiences\n\nFan’s CRC research will be based in her Unseen-AI Lab (U&AI Lab) and engage interdisciplinary collaborators to develop approaches that prevent inequitable AI at the design and production stage. Her research plan includes three case studies on software, hardware, and big data – all focused through an equity lens. [...] collaborations with MIT, Georgia Tech, and Waterloo’s Institute for Quantum Computing.",
+        "query": "interdisciplinary AI research collaborations case studies  ",
+        "score": 0.8405867
+      },
+      {
+        "title": "Human-AI Collaboration Framework & Case Studies - Partnership on AI",
+        "url": "https://partnershiponai.org/paper/human-ai-collaboration-framework-case-studies",
+        "snippet": "### Case Studies\n\nTo illustrate the application of this Framework, PAI spoke with AI practitioners from a range of organizations, and collected seven case studies designed to highlight the variety of real world collaborations between people and AI systems. The case studies provide descriptions of the technologies and their use, followed by author answers to the questions in the Framework: [...] 1. Virtual Assistants and Users (Claire Leibowicz, Partnership on AI)\n2. Mental Health Chatbots and Users (Yoonsuck Choe, Samsung)\n3. Intelligent Tutoring Systems and Learners (Amber Story, American Psychological Association)\n4. Assistive Computing and Motor Neuron Disease Patients (Lama Nachman, Intel)\n5. AI Drawing Tools and Artists (Philipp Michel, University of Tokyo)\n6. Magnetic Resonance Imaging and Doctors (Bendert Zevenbergen, Princeton Center for Information Technology Policy) [...] With the support of the Collaborations Between People and AI Systems (CPAIS) Expert Group, PAI has developed a Human-AI Collaboration Framework, containing 36 questions that identify some characteristics that differentiate examples of human-AI collaborations. We have also prepared a collection of seven case studies that illustrate the Framework and its applications in the real world.",
+        "query": "interdisciplinary AI research collaborations case studies  ",
+        "score": 0.7613083
+      },
+      {
+        "title": "Frontiers | Interdisciplinary Research in Artificial Intelligence: Challenges and Opportunities",
+        "url": "https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2020.577974/full",
+        "snippet": "cross-pollination interdisciplinary program showing the success of these approaches is not utopic is Frontier Development Lab, a cooperative agreement between NASA, the Seti Institute, and ESA set up to work on AI research for space science, exploration and all humankind (Frontier Development Lab). Besides multidisciplinarity, advocating for ethics and diversity (Agarwal et al., 2020) is a must to account for biased models (Hendricks et al., 2018; Denton et al., 2019) and avoid stereotypes [...] learning (Doncieux et al., 2018). One related research direction are studies of systems that sequentially and continually learn (Lesort et al., 2020) in a lifelong setting, i.e., continual learning without experiencing the well known phenomenon of catastrophic forgetting (Traoré et al., 2019). When combined, this research puts forward the following questions: How can we leverage recent advances that situate AI agents within realistic ecological systems? How does the dynamic of such systems [...] avoid stereotypes being perpetuated by AI systems (Gebru, 2019). For instance, interdisciplinary approaches, e.g., including art and science, as well as ensuring minorities are well represented among both the users and the evaluators of the latest eXplainable AI techniques (Arrieta et al., 2020), can make AI more accessible and inclusive to otherwise unreachable communities.",
+        "query": "interdisciplinary AI research collaborations case studies  ",
+        "score": 0.67347145
+      },
+      {
+        "title": "AI in 2024: Monitoring New Regulation and Staying in Compliance With Existing Laws | Insights | Skadden, Arps, Slate, Meagher & Flom LLP",
+        "url": "https://www.skadden.com/insights/publications/2023/12/2024-insights/other-regulatory-developments/ai-in-2024",
+        "snippet": "The legislation, which would apply to providers placing AI systems in the EU market, would take a “risk-based” approach, classifying and regulating systems based on their risk levels. For example, new provisions were introduced to account for general purpose AI systems, to require specific transparency obligations for foundational models before being placed on the market, and to impose a stricter regime for high-impact foundational models. [...] Governments across the world have only just begun to draft and pass laws tailored to AI technology. Heading into 2024, we expect both sector-specific and broader, omnibus AI regulations to impact nearly all industries as the use of AI expands.\n\n### European Union\n\nThe EU set rules for the use of AI, namely the EU Artificial Intelligence Act (EU AI Act) and the Artificial Intelligence Liability Directive (AILD). [...] The legislation, which would apply to providers placing AI systems in the EU market, would take a “risk-based” approach, classifying and regulating systems based on their risk levels.\n\nThe draft law specifies that the scope of the law shall not affect member states’ competences in national security (or any entity entrusted with tasks in this area) or apply to AI systems used solely for the purpose of research and innovation.",
+        "query": "AI development regulatory trends 2024  ",
+        "score": 0.7520126
+      },
+      {
+        "title": "Regulation of artificial intelligence - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence",
+        "snippet": "The EU's Artificial Intelligence Act (Regulation (EU) 2024/1689) entered into force on 1 August 2024, creating a risk-based legal framework for AI systems, including special provisions for general-purpose AI models enforceable by 2 August 2025. It classifies AI applications by risk level. Article 14 requires human oversight capabilities for high-risk AI systems. The Framework Convention on Artificial Intelligence was opened for signature on 5 September 2024 under the Council of Europe. [...] According to Stanford University's 2025 AI Index, legislative mentions of AI rose 21.3% across 75 countries since 2023, marking a ninefold increase since 2016. The U.S. federal agencies introduced 59 AI-related regulations in 2024—more than double the number in 2023. In 2024, nearly 700 AI-related bills were introduced across 45 states, up from 191 in 2023. [...] In December 2024, South Korea passed the Act on the Development of Artificial Intelligence and Establishment of Trust (AI Basic Act). The act established legal grounds for creating a national AI control tower, an AI safety institute, and various other government initiatives for AI-related research, standardization and policies. As part of the AI Basic Act, businesses that develop and deploy generative AI are responsible for safety and transparency, including implementing risk assessments.",
+        "query": "AI development regulatory trends 2024  ",
+        "score": 0.7505527
+      },
+      {
+        "title": "AI Watch: Global regulatory tracker - United States | White & Case LLP",
+        "url": "https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-united-states",
+        "snippet": "Colorado AI Act: On May 17, 2024, Colorado enacted the first comprehensive US AI legislation, the Colorado AI Act. The Act creates duties for developers and for those that deploy AI. Unlike certain state privacy laws, there is no revenue threshold for applicability – the Act applies to all developers and deployers of high-risk AI systems in Colorado. The Act focuses on automated decision-making systems and defines a covered high-risk AI system as one that \"when deployed, makes, or is a [...] to keep pace. The EU implemented the EU AI Act in 2024, which was subsequently amended by the Digital Omnibus on AI in 2026 (the EU AI Act is addressed in more detail here: AI watch: Global regulatory tracker - European Union, and you can read our EU AI Act Handbook here). [...] Long awaited EU AI Act becomes law after publication in the EU's Official Journal (July 2024)\n Dawn of the EU's AI Act: political agreement reached on world's first comprehensive horizontal AI regulation\n Processing personal data using AI Systems (Part 1)\n The EU AI Act's extraterritorial scope (Part 2)",
+        "query": "AI development regulatory trends 2024  ",
+        "score": 0.6765131
+      }
+    ],
+    "created_at": "12 Nov 2026, 09:32 PM"
+  },
+  {
     "id": "20261112200901932156",
     "topic": "how is ai devloping in agriculture",
     "depth": "Quick exploration",
