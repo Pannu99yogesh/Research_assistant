@@ -45,9 +45,9 @@ def get_llm():
 
     return ChatGroq(
         model="openai/gpt-oss-20b",
-        api_key=get_secret("GROQ_API_KEY"),
         temperature=0.2,
-        max_tokens=600,
+        max_tokens=2000,
+        reasoning_effort="low",
         max_retries=1,
     )
 
