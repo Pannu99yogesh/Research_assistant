@@ -230,7 +230,7 @@ Contributions, ideas, and feedback are welcome!
 
 **Yogesh**
 
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/Pannu99yogesh)
+- GitHub: [@Pannu99yogesh](https://github.com/Pannu99yogesh)
 - Project: [The Research Room](https://research-room.streamlit.app/)
 
 ---
